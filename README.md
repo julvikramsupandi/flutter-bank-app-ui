@@ -1,16 +1,3 @@
-# flutter_ui_bank_app
+# Flutter Bank App UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tumb](https://user-images.githubusercontent.com/37796466/187326995-9cfd23b1-ed39-4ac6-9932-b251291a0e89.jpg)
