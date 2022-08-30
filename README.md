@@ -1,3 +1,3 @@
 # Flutter Bank App UI
 
-![Tumb](https://user-images.githubusercontent.com/37796466/187326995-9cfd23b1-ed39-4ac6-9932-b251291a0e89.jpg)
+![Tumb - Github](https://user-images.githubusercontent.com/37796466/187327307-c98f532a-2635-407e-8469-e2e94cbd8699.png)
